@@ -1,0 +1,2 @@
+defmodule MixTaskExample do
+end
